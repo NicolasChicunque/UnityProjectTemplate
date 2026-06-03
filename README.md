@@ -1,0 +1,9 @@
+This template includes:
+- “com.antigravity.ide”: “https://github.com/billythekidz/UnityAntigravityIDE.git”, 
+- “com.coplaydev.unity-mcp”: “https://github.com/CoplayDev/unity-mcp.git?path=/MCPForUnity#main”, 
+- “com.kyrylokuzyk.primetween”: “1.4.0”, 
+- “com.unity.2d.sprite”: “1.0.0”, 
+- “com.unity.cinemachine”: “3.1.6”,
+- “com.unity.inputsystem”: “1.19.0”, 
+- “com.unity.render-pipelines.universal”: “17.4.0”, 
+- “com.unity.ugui”: “2.0.0”
